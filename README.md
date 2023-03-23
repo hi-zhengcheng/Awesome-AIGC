@@ -21,6 +21,9 @@
 ### 7. [Image Creater](https://www.bing.com/create) 👉 Microsoft
 * Text to Image
 
+### 8. [Imagen](https://imagen.research.google/) 👉 Google
+* Text to Image
+
 # Foundamental models that support AIGC-products
 
 ### [BLIP](https://huggingface.co/spaces/Salesforce/BLIP)
