@@ -24,6 +24,9 @@
 ### 8. [Imagen](https://imagen.research.google/) 👉 Google
 * Text to Image
 
+### 9. [3DFY](https://3dfy.ai/) 👉 3dfy.ai
+* Text to 3D model
+
 # Foundamental models that support AIGC-products
 
 ### [BLIP](https://huggingface.co/spaces/Salesforce/BLIP)
