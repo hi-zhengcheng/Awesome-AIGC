@@ -27,7 +27,7 @@
 ### 9. [3DFY](https://3dfy.ai/) 👉 3dfy.ai
 * Text to 3D model
 
-# Foundamental models that support AIGC-products
+# Foundamental models
 
 ### [BLIP](https://huggingface.co/spaces/Salesforce/BLIP)
 * Image Captioning
