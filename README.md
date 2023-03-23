@@ -1,13 +1,25 @@
 # AIGC-products-list
 
-### [ChatGPT](https://chat.openai.com/)
+### 1. [ChatGPT](https://chat.openai.com/) 👉 OpenAI
+* chatbot
 
+### 2. [Visual ChatGPT](https://huggingface.co/spaces/microsoft/visual_chatgpt) 👉 Microsoft
+* chatbot supporting image input
 
-### [Visual ChatGPT](https://huggingface.co/spaces/microsoft/visual_chatgpt)
+### 3. [Gen-2](https://research.runwayml.com/gen2) 👉 runway research
+* Text to Video
 
+### 4. [Midjourney](https://www.midjourney.com/) 👉 Midjourney
+* Text to Image
 
-## 
+### 5. [文心一言](https://yiyan.baidu.com/) 👉 Baidu
+* chatbot in China
 
+### 6. [Adobe Firefly](https://firefly.adobe.com/) 👉 Adobe
+* Text to Image
+
+### 7. [Image Creater](https://www.bing.com/create) 👉 Microsoft
+* Text to Image
 
 # Foundamental models that support AIGC-products
 
