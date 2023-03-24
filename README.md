@@ -1,4 +1,4 @@
-# AIGC-products-list
+# 🔥 AIGC products list 🔥
 
 ### 1. [ChatGPT](https://chat.openai.com/) 👉 OpenAI
 * chatbot
