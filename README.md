@@ -45,6 +45,10 @@
 * Open-World Concept Understanding
 * Video Summarization/Event Localization
 
+### 11. [Unity AI Beta Program](https://create.unity.com/ai-beta) 👉 Unity
+* Text to Game?
+
+
 # Foundamental models
 
 #### [BLIP](https://huggingface.co/spaces/Salesforce/BLIP)
