@@ -46,7 +46,7 @@
 * Video Summarization/Event Localization
 
 ### 11. [Unity AI Beta Program](https://create.unity.com/ai-beta) 👉 Unity
-* Text to Game?
+* Text to 3D model?
 
 
 # Foundamental models
