@@ -7,7 +7,15 @@
 * chatbot supporting image input
 
 ### 3. [Gen-2](https://research.runwayml.com/gen2) 👉 runway research
-* Text to Video
+* Text to Video: Synthesize videos in any style you can imagine using nothing but a text prompt. If you can say it, now you can see it.
+* Text + Image to Video: Generate a video using a driving image and a text prompt
+* Image to Video: Generate video using just a driving image (Variations Mode)
+* Stylization: Transfer the style of any image or prompt to every frame of your video
+* Storyboard: Turn mockups into fully stylized and animated renders.
+* Mask: Isolate subjects in your video and modify them with simple text prompts.
+* Render: Turn untextured renders into realistic outputs by applying an input image or prompt.
+* Customization: Unleash the full power of Gen-2 by customizing the model for even higher fidelity results.
+
 
 ### 4. [Midjourney](https://www.midjourney.com/) 👉 Midjourney
 * Text to Image
