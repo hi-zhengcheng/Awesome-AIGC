@@ -48,6 +48,10 @@
 ### 11. [Unity AI Beta Program](https://create.unity.com/ai-beta) 👉 Unity
 * Text to 3D model?
 
+### 12. [D-ID](https://www.d-id.com/) 👉 D-ID
+* Text to Avatar
+* Digital People: Text-to-Video
+
 
 # Foundamental models
 
