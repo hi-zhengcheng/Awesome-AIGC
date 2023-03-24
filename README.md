@@ -27,6 +27,16 @@
 ### 9. [3DFY](https://3dfy.ai/) 👉 3dfy.ai
 * Text to 3D model
 
+### 10. [MM-REACT](https://github.com/microsoft/MM-REACT) 👉 Microsoft
+* Visual Math and Text Reasoning
+* Visual-Conditioned Joke/Meme
+* Spatial/Coordinate Understanding
+* Visual Planning and Prediction
+* Multi-Image Reasoning
+* Multi-Hop Document Understanding
+* Open-World Concept Understanding
+* Video Summarization/Event Localization
+
 # Foundamental models
 
 #### [BLIP](https://huggingface.co/spaces/Salesforce/BLIP)
