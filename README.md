@@ -55,6 +55,9 @@
 * Text to Avatar
 * Digital People: Text-to-Video
 
+### 14. [Civitai](https://civitai.com/) 👉 Civitai
+* Browse, share, and review custom AI art models
+
 
 # Foundamental models
 
