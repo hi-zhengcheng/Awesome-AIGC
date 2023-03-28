@@ -33,7 +33,7 @@
 * Text to Image
 
 ### 9. [glide](https://github.com/openai/glide-text2im) 👉 OpenAI
-# Text to Image
+* Text to Image
 
 ### 10. [3DFY](https://3dfy.ai/) 👉 3dfy.ai
 * Text to 3D model
