@@ -32,10 +32,13 @@
 ### 8. [Imagen](https://imagen.research.google/) 👉 Google
 * Text to Image
 
-### 9. [3DFY](https://3dfy.ai/) 👉 3dfy.ai
+### 9. [glide](https://github.com/openai/glide-text2im) 👉 OpenAI
+# Text to Image
+
+### 10. [3DFY](https://3dfy.ai/) 👉 3dfy.ai
 * Text to 3D model
 
-### 10. [MM-REACT](https://github.com/microsoft/MM-REACT) 👉 Microsoft
+### 11. [MM-REACT](https://github.com/microsoft/MM-REACT) 👉 Microsoft
 * Visual Math and Text Reasoning
 * Visual-Conditioned Joke/Meme
 * Spatial/Coordinate Understanding
@@ -45,10 +48,10 @@
 * Open-World Concept Understanding
 * Video Summarization/Event Localization
 
-### 11. [Unity AI Beta Program](https://create.unity.com/ai-beta) 👉 Unity
+### 12. [Unity AI Beta Program](https://create.unity.com/ai-beta) 👉 Unity
 * Text to 3D model?
 
-### 12. [D-ID](https://www.d-id.com/) 👉 D-ID
+### 13. [D-ID](https://www.d-id.com/) 👉 D-ID
 * Text to Avatar
 * Digital People: Text-to-Video
 
